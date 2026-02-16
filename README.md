@@ -1,7 +1,7 @@
 # UI Automation Project: Cybersport.ru + Wikipedia Android
 
 Тестовый проект на **Java 11 + Maven**, включающий:
-- веб‑автотесты для [cybersport.ru](https://www.cybersport.ru/) на **Selenium WebDriver + TestNG**;
+- веб‑автотесты для сайта [cybersport.ru](https://www.cybersport.ru/) на **Selenium WebDriver + TestNG**;
 - мобильные автотесты для Android‑приложения **Wikipedia** на **Appium + TestNG**.
 
 ## Технологический стек
